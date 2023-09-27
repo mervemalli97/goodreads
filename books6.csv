@@ -1,0 +1,617 @@
+;0;1;2;3;4
+0;Timequake;Kurt Vonnegut Jr.;3,72;37,371;2,035
+1;Core (Core #1);Teshelle Combs;4,03;250;52
+2;The Final Reflection (Star Trek: Worlds Apart, #1);John M. Ford;3,92;1,617;138
+3;When the Tripods Came;John Christopher;3,80;4,447;252
+4;The Last Stormlord (Watergivers, #1);Glenda Larke;3,77;7,005;313
+5;iD (The Machine Dynasty, #2);Madeline Ashby;3,62;684;103
+6;Shutter Island;Dennis Lehane;4,11;189,398;10,193
+7;The Heresy Within (The Ties That Bind, #1);Rob J. Hayes;3,91;2,780;157
+8;Hidden Empire (The Saga of Seven Suns, #1);Kevin J. Anderson;3,79;8,657;582
+9;Delta: Retribution (Delta, #1);Cristin Harber;4,19;2,099;172
+10;Ghost Layer (Ghost Seer, #2);Robin D. Owens;3,84;755;87
+11;Magie pro každého (Kladivo na čaroděje, #1);Jiří Pavlovský;3,93;215;34
+12;The Faded Sun Trilogy (The Faded Sun, #1-3);C.J. Cherryh;4,13;5,254;238
+13;The Bloody Crown of Conan (Conan the Cimmerian, #2);Robert E. Howard;4,31;4,873;186
+14;Mecanoscrit del segon origen;Manuel de Pedrolo;3,76;5,170;272
+15;Agent of Change (Liaden Universe, #9);Sharon Lee;4,16;4,197;281
+16;The Prisoner of Cell 25 (Michael Vey, #1);Richard Paul Evans;4,22;43,671;5,505
+17;Lux perpetua (Trylogia husycka, #3);Andrzej Sapkowski;4,10;5,172;140
+18;Stealing the Wind (Mermen of Ea #1);Shira Anthony;3,72;1,334;244
+19;Shadow Games (The Chronicles of the Black Company, #4);Glen Cook;4,11;11,683;309
+20;Fantasy of Frost (The Tainted Accords, #1);Kelly St. Clare;4,19;11,649;817
+21;Dragonfriend (Dragonfriend #1);Marc Secchia;4,29;1,350;171
+22;Hunter of Demons (SPECTR, #1);Jordan L. Hawk;3,95;2,580;363
+23;The Angel's Game (The Cemetery of Forgotten Books, #2);Carlos Ruiz Zafón;3,99;155,278;13,302
+24;No Logo;Naomi Klein;3,88;30,964;1,188
+25;Midnight Robber;Nalo Hopkinson;3,95;3,480;516
+26;Century of the Soldier (The Monarchies of God #3-5);Paul Kearney;4,04;751;43
+27;Hemlock Grove;Brian McGreevy;3,48;6,915;999
+28;Radiomen;Eleanor Lerman;3,84;157;36
+29;Crossing in Time (Between Two Evils, #1);D.L. Orton;4,01;798;247
+30;Havoc (Dred Chronicles, #2);Ann Aguirre;4,09;2,122;179
+31;Space Cruiser Musashi;Dean Chalmers;3,80;427;31
+32;The Divide (Dreamland, #2);E.J. Mellow;4,26;596;83
+33;Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8);J.K. Rowling;3,50;971,701;72,486
+34;Akira, Vol. 4;Katsuhiro Otomo;4,47;11,005;345
+35;The Emblem Throne (The Runes of Issalia, #2);Jeffrey L. Kohanek;4,11;544;42
+36;Abducted (Alien Mate Index, #1);Evangeline Anderson;3,91;3,334;419
+37;The Cloud Hunters;Alex Shearer;3,85;331;42
+38;The Stars Down Under (The Outback Stars #2);Sandra McDonald;3,42;265;37
+39;The November Girl;Lydia Kang;3,95;842;176
+40;Codename: Night Witch (The Girls from Alcyone Book 3);Cary Caffrey;4,09;525;32
+41;The Night Land;William Hope Hodgson;3,52;1,524;240
+42;City of Miracles (The Divine Cities, #3);Robert Jackson Bennett;4,42;12,354;1,348
+43;Honor's Knight (Paradox, #2);Rachel Bach;3,98;9,538;856
+44;A Thousand Nights (A Thousand Nights, #1);E.K. Johnston;3,63;13,904;2,683
+45;It All Started (Zournal #1);R.S. Merritt;4,24;402;64
+46;River of Destiny;Barbara Erskine;4,01;2,312;265
+47;The Heights of Perdition (The Divine Space Pirates, #1);C.S.  Johnson;4,11;110;45
+48;The Best American Science Fiction and Fantasy 2018;N.K. Jemisin;3,84;709;130
+49;Dungeon Calamity (The Divine Dungeon, #3);Dakota Krout;4,35;8,256;280
+50;Le Rayon vert;Jules Verne;3,44;1,648;117
+51;Trial by Fire (Worldwalker, #1);Josephine Angelini;3,94;18,028;2,292
+52;The Waking Fire (The Draconis Memoria, #1);Anthony Ryan;4,05;13,341;1,115
+53;The Day Diana Died: 25th Anniversary;Christopher Andersen;4,20;2,977;210
+54;Light Mage (The Black Witch Chronicles, #1.5);Laurie Forest;4,26;3,967;316
+55;Ruin (The Faithful and the Fallen, #3);John Gwynne;4,48;19,279;1,796
+56;Empress of a Thousand Skies (Empress of a Thousand Skies, #1);Rhoda Belleza;3,35;8,023;1,415
+57;V-Wars Volume 1: Crimson Queen;Jonathan Maberry;3,73;348;70
+58;The Women's War (Women's War, #1);Jenna Glass;3,89;2,188;492
+59;The Girl the Sea Gave Back (Sky and Sea, #2);Adrienne Young;3,58;13,656;2,499
+60;Cold Fire (Spiritwalker, #2);Kate Elliott;3,92;5,245;458
+61;False Gods (The Horus Heresy, #2);Graham McNeill;4,11;16,746;779
+62;Charlie and the Great Glass Elevator (Charlie Bucket, #2);Roald Dahl;3,68;107,914;3,680
+63;Dragonseye (Pern, #13);Anne McCaffrey;4,04;13,837;272
+64;Death and the Crone;Megan Mackie;4,14;71;40
+65;Not a Drop to Drink (Not a Drop to Drink, #1);Mindy McGinnis;3,82;13,503;2,259
+66;Necropolis (Power of Five, #4);Anthony Horowitz;4,13;12,476;440
+67;Plague Arcanist (Frith Chronicles, #4);Shami Stovall;4,55;1,634;81
+68;Dominion: An Anthology of Speculative Fiction from Africa and the African Diaspora;Zelda Knight;4,01;125;57
+69;The Witch is Back (Wicked Witches of the Midwest, #17);Amanda M. Lee;4,55;2,937;145
+70;Spin (Captain Chase, #2);Patricia Cornwell;3,73;4,110;387
+71;Wolfsong (Green Creek, #1);T.J. Klune;4,33;56,330;11,346
+72;The Liveship Traders Trilogy;Robin Hobb;4,56;4,944;150
+73;The Gates (Samuel Johnson, #1);John Connolly;3,81;12,974;1,861
+74;Chosen (The Warrior Chronicles, #1);K.F. Breene;4,10;19,883;1,165
+75;The Poppy War (The Poppy War, #1);R.F. Kuang;4,17;209,779;34,501
+76;Niourk;Stefan Wul;3,62;452;32
+77;The Extractionist;Kimberly Unger;3,66;201;49
+78;Soulbinder (Spellslinger, #4);Sebastien de Castell;4,24;5,563;497
+79;Scenes from Quarantine (The Tarot Sequence, #2.5);K.D. Edwards;4,35;618;63
+80;Pirate's Protector (Sentinels of Savannah #7);Lisa Kessler;4,05;82;54
+81;Ka'Azula (Black Hole Radio, #3);Ann Birdgenaw;4,39;36;34
+82;Children of the Flying City;Jason Sheehan;3,74;140;37
+83;The High Auction (Wisdom Revolution, #1);Misba;4,60;6,184;923
+84;Geometry for Ocelots;Exurb1a;4,43;1,231;147
+85;The High Auction (Wisdom Revolution, #1);Misba;4,60;6,184;923
+86;Junkyard War (Junkyard Cats, #3);Faith Hunter;4,38;1,051;107
+87;A Ruin of Roses (Deliciously Dark Fairytales, #1);K.F. Breene;3,83;43,500;3,787
+88;The Invisible Hour;Alice Hoffman;3,76;7,951;1,712
+89;Sleep Writer (Sleep Writer Book 1);Keith  Robinson;4,20;266;38
+90;Mother of Learning: ARC 4;Domagoj Kurmaić;4,65;1,777;105
+91;Sunreach (Skyward, #2.1);Brandon Sanderson;4,18;17,534;1,613
+92;Children of Morrow;Helen Mary Hoover;4,16;261;36
+93;Intensity;Dean Koontz;4,04;82,776;4,015
+94;Strength of Stones;Greg Bear;3,34;529;40
+95;Convergent Series;Larry Niven;3,94;1,515;42
+96;Forty Signs of Rain (Science in the Capital, #1);Kim Stanley Robinson;3,55;4,064;452
+97;Declare;Tim Powers;4,02;5,387;501
+98;The Hercules Text;Jack McDevitt;3,67;1,134;147
+99;The Truce at Bakura;Kathy Tyers;3,44;12,862;419
+100;Dust (Jacob's Ladder, #1);Elizabeth Bear;3,66;2,392;332
+101;Marooned in Realtime (Across Realtime, #2);Vernor Vinge;4,10;5,464;239
+102;Emergence;David R. Palmer;4,13;1,981;208
+103;Absolute Boyfriend, Vol. 1;Yuu Watase;4,02;37,095;551
+104;Doctor Who: The Forever Trap;Dan Abnett;4,07;812;91
+105;Voyage dans la Lune;Cyrano de Bergerac;3,55;820;82
+106;Dragon and Judge (Dragonback, #5);Timothy Zahn;4,15;1,215;40
+107;Wanderlust (Sirantha Jax, #2);Ann Aguirre;3,88;6,572;504
+108;Molly Fyde and the Fight for Peace (The Bern Saga, #4);Hugh Howey;4,02;3,047;131
+109;Selling Out (Quantum Gravity, #2);Justina Robson;3,72;1,525;73
+110;The Silver Hand (The Song of Albion, #2);Stephen R. Lawhead;4,24;7,135;219
+111;Dragonforge (Dragon Age, #2);James Maxey;3,91;496;39
+112;Dark Tide II: Ruin (Star Wars: The New Jedi Order, #3);Michael A. Stackpole;3,77;9,778;156
+113;Inquest (Rogue Hunter #1);Kevis Hendrickson;3,58;141;66
+114;The Hollow Man;Dan Simmons;3,47;3,357;243
+115;Warm Worlds and Otherwise;James Tiptree Jr.;4,02;537;65
+116;The Death of Hope (Star Wars: Jedi Apprentice, #15);Jude Watson;3,84;1,651;56
+117;Balancer (Advent Mage Cycle, #4);Honor Raconteur;4,26;2,147;49
+118;Le morte Darthur: Sir Thomas Malory's book of King Arthur and his noble knights of the Round table;Thomas Malory;3,92;36,993;1,128
+119;Dancing Tides (Pelican Pointe, #3);Vickie McKeehan;4,26;997;67
+120;By Light Alone;Adam Roberts;3,22;882;126
+121;The Born Queen (Kingdoms of Thorn and Bone, #4);Greg Keyes;3,72;3,881;180
+122;Survivor;Octavia E. Butler;3,80;1,224;158
+123;Cutting for Stone;Abraham   Verghese;4,31;371,518;27,808
+124;Селцето (Доктор Павлиш, #7);Kir Bulychev;4,39;1,250;89
+125;Sasharia en Garde!;Sherwood Smith;3,60;1,095;119
+126;Year Zero;Rob  Reid;3,61;13,304;1,832
+127;Hospital Station (Sector General, #1);James                    White;4,01;2,140;151
+128;Jamais avant le coucher du soleil;Johanna Sinisalo;3,53;5,121;547
+129;Thuvia, Maid of Mars (Barsoom, #4);Edgar Rice Burroughs;3,76;9,151;367
+130;The Dinosaur Planet Omnibus;Anne McCaffrey;3,99;1,049;52
+131;The Aware (The Isles of Glory, #1);Glenda Larke;3,81;837;61
+132;Mystic River;Dennis Lehane;4,17;142,123;4,683
+133;Doctor Mars (Mindcop Dossiers, #1);T.A. Uner;3,89;111;70
+134;Torrent (Condemned, #1);Gemma James;3,67;7,513;838
+135;Tarnished Knight (The Lost Stars, #1);Jack Campbell;4,03;5,015;241
+136;The Seneca Scourge;Carrie Rubin;4,05;150;58
+137;Quarter Share (Golden Age of the Solar Clipper, #1);Nathan Lowell;4,17;9,116;817
+138;Eirelan (Saga of the Latter-Day Celts #1);Liam O'Shiel;4,04;90;39
+139;Talion: Revenant;Michael A. Stackpole;4,17;2,823;148
+140;Last Call (Fault Lines, #1);Tim Powers;4,06;6,342;523
+141;Deryni Rising (The Chronicles of the Deryni, #1);Katherine Kurtz;3,96;7,399;292
+142;A Better World (Brilliance Saga, #2);Marcus Sakey;4,16;18,085;891
+143;Inkheart / Inkspell / Inkdeath (The Inkheart Trilogy #1-3);Cornelia Funke;4,20;18,910;577
+144;Infinite (Newsoul, #3);Jodi Meadows;4,03;4,802;561
+145;The Fifty-Seven Lives of Alex Wayfare;M.G. Buehrlen;3,93;1,368;276
+146;Fire Sea (The Death Gate Cycle, #3);Margaret Weis;4,08;18,918;282
+147;Slated (Slated, #1);Teri Terry;4,07;30,836;3,155
+148;The Steerswoman's Road;Rosemary Kirstein;4,27;504;80
+149;The Winter King (Weathermages of Mystral, #1);C.L. Wilson;4,05;21,199;2,121
+150;Breakout (Dred Chronicles, #3);Ann Aguirre;4,15;1,551;153
+151;El valle de los caballos (Los Hijos de la Tierra, #2);Jean M. Auel;4,02;87,251;2,902
+152;The Testing Guide (The Testing, #0.5);Joelle Charbonneau;3,56;1,843;220
+153;Bridge of Birds (The Chronicles of Master Li and Number Ten Ox, #1);Barry Hughart;4,28;10,282;1,170
+154;Cloak of the Light (Wars of the Realm, #1);Chuck Black;4,40;1,375;226
+155;Akira, Vol. 5;Katsuhiro Otomo;4,49;10,845;269
+156;Beggar Magic;H.L. Burke;4,30;171;69
+157;The Buried Symbol (The Runes of Issalia, #1);Jeffrey L. Kohanek;4,01;1,197;154
+158;Protected (Alien Mate Index, #2);Evangeline Anderson;4,11;1,995;202
+159;The Encounter (Probed, #1);Alexis Adaire;3,31;654;59
+160;Howl's Moving Castle Picture Book (Howl's Moving Castle Film Comics, #1);Hayao Miyazaki;4,43;3,057;178
+161;The Outback Stars (The Outback Stars #1);Sandra McDonald;3,43;981;123
+162;True Names;Vernor Vinge;3,90;535;74
+163;Awake in the Night Land;John C. Wright;4,34;454;46
+164;Genetic Imperfections;Steve Hadden;4,12;182;42
+165;Slumbering (The Starlight Chronicles #1);C.S.  Johnson;3,64;319;75
+166;Beren And Lúthien;J.R.R. Tolkien;4,03;16,684;1,753
+167;Superluminal;Vonda N. McIntyre;3,74;341;43
+168;How to Stop Time;Matt Haig;3,84;154,961;16,019
+169;Karda;Sherrill Nilson;4,38;230;50
+170;Como un guante de seda forjado en hierro;Daniel Clowes;4,06;7,951;448
+171;A Place Called Freedom;Ken Follett;4,03;36,031;1,755
+172;The Boy in the Striped Pajamas;John Boyne;4,15;779,730;35,458
+173;The Rebel Mages (The Black Witch Chronicles #0.5 & 1.5);Laurie Forest;4,43;1,508;138
+174;The Darkest Passion (Lords of the Underworld, #5);Gena Showalter;4,34;41,441;1,385
+175;Wrath (The Faithful and the Fallen, #4);John Gwynne;4,51;17,416;1,866
+176;The Perks of Being a Wallflower;Stephen Chbosky;4,23;1,710,119;85,347
+177;Traitor Born (Secondborn, #2);Amy A. Bartol;4,32;8,719;704
+178;Immortals' Requiem;Vincent Bobbe;4,26;211;71
+179;The Mark of the Tala (The Twelve Kingdoms, #1);Jeffe Kennedy;3,75;3,591;382
+180;The Skies of Pern (Pern, #15);Anne McCaffrey;4,10;15,240;272
+181;The Awakening (The Dragon Heart Legacy, #1);Nora Roberts;4,22;51,324;4,838
+182;Tower Lord (Raven's Shadow, #2);Anthony Ryan;4,17;46,864;2,058
+183;The Woodsman (Enchanted Lovers, #1);Belle Scarlett;3,98;104;56
+184;Evil Star (Power of Five, #2);Anthony Horowitz;3,98;18,122;604
+185;The Gift of the Magpie (Meg Langslow Mysteries Book 28);Donna Andrews;4,12;2,176;291
+186;Quantum (Captain Chase, #1);Patricia Cornwell;2,99;18,317;2,296
+187;The House in the Cerulean Sea;T.J. Klune;4,42;528,752;86,800
+188;The Magician's Apprentice (Black Magician, #0.5);Trudi Canavan;3,97;24,428;799
+189;Stiletto (The Checquy Files, #2);Daniel O'Malley;4,14;20,272;2,250
+190;The Apprentice Storyteller (Wishmaster #1);Astrid V.J.;4,37;107;73
+191;The Emperor's Edge (The Emperor's Edge, #1);Lindsay Buroker;4,05;14,689;1,487
+192;Ral's Woman (Zorn Warriors, #1);Laurann Dohner;3,80;13,663;643
+193;The Poppy War (The Poppy War, #1);R.F. Kuang;4,17;209,779;34,501
+194;The Star Annotated by H. G. Wells;H.G. Wells;3,65;1,206;156
+195;The Vanishing Tower (The Elric Saga #4);Michael Moorcock;3,97;9,149;166
+196;Saturnius Mons (Ruins of Empire, #1);Jeremy L.  Jones;3,88;41;31
+197;Queenslayer (Spellslinger, #5);Sebastien de Castell;4,19;4,677;409
+198;Inferno Squad (Star Wars: Battlefront, #2);Christie Golden;3,86;6,460;652
+199;Scenes from the Holidays (The Tarot Sequence, #2.6);K.D. Edwards;4,37;482;58
+200;The Liar's Crown (Dominions, #1);Abigail Owen;3,93;4,444;962
+201;Tinkering with Love;Aliyah Burke;3,55;439;149
+202;Perdido Street Station (New Crobuzon, #1);China Miéville;3,97;68,225;5,746
+203;Dreamer (The Silent Empire, #1);Steven Harper;3,84;432;34
+204;Veins of Gold;Charlie N. Holmberg;3,70;4,591;409
+205;Catch Me If I Fall;Barry Jonsberg;3,81;461;72
+206;Mother of Learning;Domagoj Kurmaić;4,68;1,385;62
+207;ReDawn (Skyward, #2.2);Brandon Sanderson;4,20;14,556;1,310
+208;The Mayflower Project (Remnants, #1);Katherine Applegate;3,69;1,463;118
+209;Houston, Houston, Do You Read?;James Tiptree Jr.;4,00;1,172;139
+210;Found (The Missing, #1);Margaret Peterson Haddix;3,98;39,760;4,034
+211;The Excalibur Alternative (Earth Legions, #3);David Weber;3,99;3,471;73
+212;Halo: First Strike;Eric S. Nylund;4,15;15,287;434
+213;Alliance Space (Company Wars #2)(The Era of Rapprochement #2);C.J. Cherryh;4,29;554;38
+214;Chasing the Moon;A. Lee Martinez;3,84;3,051;276
+215;Dragon and Herdsman (Dragonback, #4);Timothy Zahn;4,12;1,317;42
+216;Keeping It Real (Quantum Gravity, #1);Justina Robson;3,47;2,766;280
+217;The Werewolf Principle;Clifford D. Simak;3,77;1,628;139
+218;Beowulf's Children (Heorot, #2);Larry Niven;3,79;3,756;104
+219;Man from Mundania (Xanth #12);Piers Anthony;3,73;10,157;103
+220;The Ties That Bind (Star Wars: Jedi Apprentice, #14);Jude Watson;3,82;1,733;52
+221;Redheart (Leland Dragon, #1);Jackie Gamber;3,74;136;45
+222;At the Mouth of the River of Bees: Stories;Kij Johnson;4,06;2,417;406
+223;Advent (Advent Mage Cycle #3);Honor Raconteur;4,25;2,340;43
+224;Hidden Moon Bay (Pelican Pointe, #2);Vickie McKeehan;4,18;1,433;104
+225;The True Game (Land of the True Game, #1-3);Sheri S. Tepper;4,21;1,354;75
+226;The Tower (Sancti Trilogy, #3);Simon Toyne;4,07;3,542;294
+227;Darkness Dawns (Immortal Guardians, #1);Dianne Duvall;3,99;14,432;1,177
+228;A Book Dragon;Donn Kushner;4,05;284;50
+229;The Escape of Princess Madeline  (Princess Madeline #1);Kirstin Pulioff;3,90;342;84
+230;The Flight of the Eisenstein (The Horus Heresy, #4);James Swallow;4,05;12,264;492
+231;Ivory (Birthright, #14);Mike Resnick;4,01;524;53
+232;A Bridge of Years;Robert Charles Wilson;3,82;1,186;106
+233;The Adjacent;Christopher Priest;3,47;1,417;215
+234;The Revenge of the Rose (The Elric Saga, #9);Michael Moorcock;3,69;2,209;88
+235;The Exodus Towers (Dire Earth Cycle, #2);Jason M. Hough;3,82;2,295;190
+236;Flyte (Septimus Heap, #2);Angie Sage;4,01;71,546;1,851
+237;Invitation to a Beheading;Vladimir Nabokov;3,92;16,761;1,188
+238;The Leopard Stratagem (Leopard King Saga, #2);T.A. Uner;4,32;62;31
+239;The Seeds of Earth (Humanity's Fire, #1);Michael Cobley;3,42;3,224;269
+240;Extreme Measures (Aegis, #1);Elisabeth Naughton;3,96;1,809;140
+241;Rise of a Merchant Prince (The Serpentwar Saga, #2);Raymond E. Feist;4,08;28,784;297
+242;Darkhenge;Catherine Fisher;3,53;709;86
+243;Desdaemona (Desdaemona,#1);Ben Macallan;3,58;337;60
+244;Skinwalker (Jane Yellowrock, #1);Faith Hunter;3,93;37,821;2,274
+245;Seeker's Mask (Kencyrath, #3);P.C. Hodgell;4,25;922;35
+246;Sacred Fate (Chronicles of Ylandre, #1);Eressë;3,99;2,205;224
+247;Bloody Bones (Anita Blake, Vampire Hunter, #5);Laurell K. Hamilton;4,11;73,781;1,421
+248;Spook Squad (PsyCop, #7);Jordan Castillo Price;4,31;3,240;451
+249;The Magic Toyshop;Angela Carter;3,81;11,610;1,127
+250;Stitch (Gothika #1);Sue  Brown;3,99;309;93
+251;Between Life and Death (Between Life and Death #3);Ann Christy;4,52;255;42
+252;Horns;Joe Hill;3,93;111,927;9,326
+253;Crown of Crystal Flame (Tairen Soul, #5);C.L. Wilson;4,38;9,384;606
+254;The Kartoss Gambit (The Way of the Shaman #2);Vasily Mahanenko;4,27;7,004;250
+255;Three (Legends of the Duskwalker, #1);Jay Posey;3,92;3,026;330
+256;Taliesin (The Pendragon Cycle #1);Stephen R. Lawhead;4,00;16,739;756
+257;Akira, Vol. 6;Katsuhiro Otomo;4,52;10,224;522
+258;The Reader (Sea of Ink and Gold, #1);Traci Chee;3,79;11,877;2,323
+259;Descended (Alien Mate Index, #3);Evangeline Anderson;4,20;1,611;163
+260;Ex-Wives of Dracula;Georgette Kaplan;3,85;472;84
+261;Nifft the Lean;Michael   Shea;3,99;709;64
+262;City of Blades (The Divine Cities, #2);Robert Jackson Bennett;4,21;15,993;1,646
+263;Agatha Heterodyne and the Clockwork Princess (Girl Genius, #5);Kaja Foglio;4,39;1,939;56
+264;The Grace of Kings (The Dandelion Dynasty, #1);Ken Liu;3,77;18,861;2,980
+265;Oath of Swords (War God, #1);David Weber;4,03;7,122;212
+266;Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5);J.K. Rowling;4,73;126,735;279
+267;The Fall of Gondolin;J.R.R. Tolkien;4,07;12,105;1,237
+268;Winter of the World (Century Trilogy #2);Ken Follett;4,37;155,494;8,948
+269;Fever 1793;Laurie Halse Anderson;3,93;122,397;7,229
+270;The Shadow Wand (The Black Witch Chronicles, #3);Laurie Forest;4,07;11,273;1,320
+271;Kitty Takes a Holiday (Kitty Norville, #3);Carrie Vaughn;3,91;18,063;642
+272;Aliens In My Garden;Jude Gwynaire;4,23;44;36
+273;War Fever;J.G. Ballard;3,88;514;39
+274;The Order: Book 1;A.C. Donaubauer;4,38;56;35
+275;Here and Now and Then;Mike Chen;3,76;9,491;1,679
+276;City of Lies (Poison Wars, #1);Sam Hawke;3,78;2,559;627
+277;The Once and Future King;T.H. White;3,99;5,171;451
+278;Herr aller Dinge;Andreas Eschbach;4,15;3,488;309
+279;Sweep in Peace (Innkeeper Chronicles, #2);Ilona Andrews;4,32;36,029;2,643
+280;Dark (The Dark Trilogy #1);Paul L. Arvidson;3,90;194;56
+281;The High Auction (Wisdom Revolution, #1);Misba;4,60;6,184;923
+282;Under Different Stars (Kricket, #1);Amy A. Bartol;4,20;19,592;1,920
+283;Archangel (The Chronicles of Ubastis Book 1);Marguerite Reed;3,83;220;61
+284;Gracie's Touch (Zion Warriors, #1);S.E. Smith;4,15;3,321;184
+285;Reclaim the Stars;Zoraida Córdova;3,82;1,114;347
+286;The Tethered Mage (Swords and Fire, #1);Melissa Caruso;3,80;6,319;968
+287;The Outsider;H.P. Lovecraft;3,98;4,756;411
+288;Crownbreaker (Spellslinger, #6);Sebastien de Castell;4,39;4,132;448
+289;Neverwraith;Shakir Rashaan;3,51;69;55
+290;Hearts Forged in Dragon Fire;Erica Hollis;3,87;97;68
+291;Ka'Azula (Black Hole Radio, #3);Ann Birdgenaw;4,39;36;34
+292;Roadside Picnic;Arkady Strugatsky;4,15;62,862;4,612
+293;The Song of the Marked (Shadows and Crowns, #1);S.M. Gaither;4,00;12,292;1,272
+294;The Stolen Throne (Dominion, #2);Abigail Owen;4,11;1,145;303
+295;Evershore (Skyward, #3.1);Brandon Sanderson;4,41;11,937;1,059
+296;Under My Roof;Nick Mamatas;3,54;150;34
+297;The incredible tide;Alexander Key;3,27;916;202
+298;Sarah (Women of Genesis, #1);Orson Scott Card;3,88;10,740;1,117
+299;Exodus (Exodus, #1);Julie Bertagna;3,69;4,043;405
+300;The Pathfinder (The Leatherstocking Tales, #3);James Fenimore Cooper;3,88;4,684;147
+301;Star Trek II: The Wrath Of Khan;Vonda N. McIntyre;4,09;3,470;150
+302;Ascending (League of Peoples, #5);James Alan Gardner;4,09;668;37
+303;Among the Free (Shadow Children, #7);Margaret Peterson Haddix;4,13;17,046;870
+304;Dragon and Slave (Dragonback, #3);Timothy Zahn;4,11;1,708;49
+305;Thendara House (Darkover, #13);Marion Zimmer Bradley;3,98;2,892;86
+306;Dark Tide I: Onslaught (Star Wars: The New Jedi Order, #2);Michael A. Stackpole;3,75;9,860;199
+307;The Call to Vengeance (Star Wars: Jedi Apprentice, #16);Jude Watson;3,84;1,665;54
+308;Fountain of Age: Stories;Nancy Kress;3,79;371;68
+309;Magus (Advent Mage Cycle, #2);Honor Raconteur;4,22;2,523;56
+310;The Bones of Others (Skye Cree, #1);Vickie McKeehan;4,01;1,479;164
+311;Crossline;Russ Colchamiro;4,01;96;44
+312;A Stranger in Olondria;Sofia Samatar;3,67;2,666;619
+313;Patient Zero (Joe Ledger, #1);Jonathan Maberry;4,00;28,964;2,319
+314;Wolf Fever (Alpha Project, #1);Milly Taiden;3,84;2,338;185
+315;Many Waters (Time Quintet, #4);Madeleine L'Engle;3,96;46,875;1,926
+316;Across a Star-Swept Sea (For Darkness Shows the Stars, #2);Diana Peterfreund;3,99;5,677;828
+317;The Unit;Ninni Holmqvist;3,75;9,912;1,401
+318;Blackbirds (Miriam Black, #1);Chuck Wendig;3,75;9,355;1,551
+319;Heart of the Comet;David Brin;3,89;2,664;107
+320;The Dreamthief's Daughter: A Tale of the Albino (Elric & Oona Von Bek, #1);Michael Moorcock;3,74;1,128;62
+321;King's Dragon (Crown of Stars, #1);Kate Elliott;3,81;9,204;398
+322;Necronomicon;H.R. Giger;4,16;3,499;45
+323;The Plague Forge (Dire Earth Cycle, #3);Jason M. Hough;3,81;1,885;174
+324;Dark Tidings (Ancient magic meets the Internet #1);Ken Magee;4,13;101;45
+325;The Big Time;Fritz Leiber;3,22;3,899;427
+326;Kyrathaba Rising;William Bryan Miller;4,19;69;47
+327;Hidden Prey (Lawmen, #1);Cheyenne McCray;4,03;1,022;114
+328;Prince of the Blood (Krondor's Sons, #1);Raymond E. Feist;4,01;25,093;357
+329;Out of the Box Regifted (Out of the Box, #2);Jennifer Theriot;4,41;418;84
+330;Dead Things (Eric Carter #1);Stephen Blackmoore;3,79;4,819;502
+331;Boots for the Gentleman (Steamcraft & Sorcery, #1);Augusta Li;3,43;129;36
+332;GhosTV (PsyCop, #6);Jordan Castillo Price;4,36;4,392;466
+333;Opposition (Lux, #5);Jennifer L. Armentrout;4,34;82,578;7,527
+334;Deep Blue Eternity;Natasha Boyd;4,05;2,335;319
+335;Forever Between (Between Life and Death, #2);Ann Christy;4,43;263;36
+336;Dogsbody;Diana Wynne Jones;4,09;6,978;661
+337;The Sight (The Sight, #1);David Clement-Davies;4,13;13,381;812
+338;Queen of Song and Souls (Tairen Soul, #4);C.L. Wilson;4,28;9,748;436
+339;Caçadores de bruxas (Dragões de Éter, #1);Raphael Draccon;3,94;1,292;93
+340;Another Fine Myth (Myth Adventures, #1);Robert Lynn Asprin;4,04;23,563;779
+341;The Game of VORs;Andrew Orange;3,90;113;74
+342;Merlin (The Pendragon Cycle, #2);Stephen R. Lawhead;4,09;10,210;323
+343;The Worm Ouroboros;E.R. Eddison;3,70;4,709;528
+344;The Last Wild;Piers Torday;3,90;3,532;447
+345;The Thing;Alan Dean Foster;4,04;1,003;73
+346;God Emperor of Didcot (Chronicles of Isambard Smith, #2);Toby Frost;3,96;568;50
+347;Cast in Courtlight (Chronicles of Elantra, #2);Michelle Sagara;4,12;10,695;395
+348;The Dragon Conspiracy (SPI Files, #2);Lisa Shearin;3,94;2,510;194
+349;Die Wasserweber (Wellenläufer-Trilogie, #3);Kai Meyer;4,00;1,723;50
+350;The Best of Fredric Brown;Fredric Brown;4,26;425;42
+351;Harry Potter: Film Wizardry;Brian Sibley;4,51;60,842;599
+352;El rostro ajeno;Kōbō Abe;3,75;4,433;363
+353;The Yorkshire Shepherdess;Amanda  Owen;4,42;4,816;346
+354;Shot to Pieces;Michael  O'Keefe;4,35;232;42
+355;Shot Down: The True Story of Pilot Howard Snyder and the Crew of the B-17 Susan Ruth;Steve Snyder;4,21;8,901;129
+356;To Kill a Mockingbird;Harper Lee;4,26;5,827,776;112,985
+357;Soul of the World (The Ascension Cycle, #1);David Mealing;3,88;693;106
+358;Empire of Storms (Throne of Glass, #5);Sarah J. Maas;4,59;476,068;38,866
+359;Valentine Pontifex;Robert Silverberg;3,78;2,912;78
+360;The Twisted Ones;T. Kingfisher;3,64;25,087;4,056
+361;Murder of Crows (The Others, #2);Anne Bishop;4,27;43,095;3,232
+362;The Sackett Brand (Sacketts Book 16);Louis L'Amour;4,23;5,523;233
+363;Alien, Mine (Alien, Mine Series, #1);Sandra   Harris;3,76;1,379;89
+364;Cold the Night, Fast the Wolves (Edge Worlds, #1);Meg  Long;3,88;1,874;725
+365;The Playground;Ray Bradbury;3,68;1,653;166
+366;Way of the Argosi (Spellslinger, #0.5);Sebastien de Castell;4,27;1,115;135
+367;Thrawn: Alliances (Star Wars: Thrawn, #2);Timothy Zahn;3,95;26,280;2,148
+368;Aurora's End (The Aurora Cycle, #3);Amie Kaufman;4,22;19,238;3,461
+369;Solaris;Stanisław Lem;3,99;100,695;6,346
+370;Enchanting the Elven Mage (Kingdom of Lore, #1);Alisha Klapheke;3,71;2,146;276
+371;The Road to Roswell;Connie Willis;3,81;2,545;669
+372;Grease Monkey;Tim Eldred;3,98;245;40
+373;Califia's Daughters;Leigh Richards;3,90;864;121
+374;Overclocked: Stories of the Future Present;Cory Doctorow;3,76;2,188;212
+375;The Girl Who Was Plugged In/Screwtop;James Tiptree Jr.;3,89;318;37
+376;Worlds (Worlds, #1);Joe Haldeman;3,55;1,283;106
+377;Firebird (Firebird, #1);Kathy Tyers;4,19;1,087;111
+378;Invitation to the Game;Monica Hughes;3,79;5,531;385
+379;K-PAX II. On a Beam of Light;Gene Brewer;3,76;1,172;52
+380;Gil's All Fright Diner;A. Lee Martinez;3,86;13,086;1,144
+381;Zima Blue and Other Stories;Alastair Reynolds;4,05;4,258;218
+382;The Voices Of Time and other stories;J.G. Ballard;3,89;405;38
+383;The Golden Torc;Julian  May;4,14;7,120;174
+384;Madwand;Roger Zelazny;3,75;1,764;44
+385;Ingathering: The Complete People Stories;Zenna Henderson;4,48;836;110
+386;Ark (Flood, #2);Stephen Baxter;3,87;3,835;317
+387;The Evil Experiment (Star Wars: Jedi Apprentice, #12);Jude Watson;3,84;1,874;56
+388;The Morgaine Saga (Morgaine & Vanye, #1-3);C.J. Cherryh;4,10;1,783;72
+389;Karma Girl (Bigtime, #1);Jennifer Estep;3,68;3,591;463
+390;Zero Hour (NUMA Files, #11);Clive Cussler;4,07;6,673;380
+391;The Mongoliad: Book Two (Foreworld, #2);Neal Stephenson;3,69;4,830;229
+392;Empire (In Her Name: Redemption, #1);Michael R. Hicks;4,08;5,164;340
+393;Caged Heat (Black Meadow Pack, #2);Milly Taiden;4,16;1,344;108
+394;In Great Waters;Kit Whitfield;3,62;714;95
+395;The Holy Machine;Chris Beckett;3,57;875;98
+396;The Prince in Waiting;John Christopher;3,88;971;73
+397;One Second After (After, #1);William R. Forstchen;3,96;61,488;7,639
+398;The Magic of Recluce (The Saga of Recluce, #1);L.E. Modesitt Jr.;3,86;24,244;781
+399;The Hound of the Baskervilles (Sherlock Holmes, #5);Arthur Conan Doyle;4,13;330,661;11,573
+400;Ruthless (Dragons MC, #1);Vanessa Waltz;3,45;676;87
+401;Ascension (Tangled Axon, #1);Jacqueline Koyanagi;3,59;1,639;334
+402;Prime Suspects: A Clone Detective Mystery;Jim Bernheimer;3,96;246;33
+403;Quicker (Ell Donsaii, #1);Laurence E. Dahners;4,29;2,768;108
+404;The House of Grey - Volume 1;Collin Earl;3,60;482;59
+405;The Student Prince (The Student Prince, #1);FayJay;4,27;4,740;634
+406;The Colors of Space;Marion Zimmer Bradley;3,70;1,368;123
+407;The Winner's Curse (The Winner's Trilogy, #1);Marie Rutkoski;3,95;107,400;13,602
+408;Onyx (Lux, #2);Jennifer L. Armentrout;4,24;177,862;11,574
+409;City of Heavenly Fire (The Mortal Instruments, #6);Cassandra Clare;4,40;370,538;27,577
+410;King of Sword and Sky (Tairen Soul, #3);C.L. Wilson;4,28;11,411;510
+411;Corações de neve (Dragões de Éter, #2);Raphael Dracon;4,13;809;33
+412;Rise of the Fallen (Wars of the Realm, #2);Chuck Black;4,37;910;120
+413;Changes (The Dresden Files, #12);Jim Butcher;4,50;112,973;4,846
+414;The Valiant (The Valiant, #1);Lesley Livingston;3,83;10,218;1,612
+415;Alliance (Linesman, #2);S.K. Dunstall;4,14;1,863;143
+416;Cast in Fury (Chronicles of Elantra, #4);Michelle Sagara;4,20;8,563;248
+417;Herland (The Herland Trilogy, #2);Charlotte Perkins Gilman;3,48;20,733;2,267
+418;Die Muschelmagier (Wellenläufer-Trilogie, #2);Kai Meyer;3,95;1,934;57
+419;The Squares of the City;John Brunner;3,41;637;55
+420;Echopraxia (Firefall, #2);Peter Watts;3,84;9,652;882
+421;Dark Matter: A Century of Speculative Fiction from the African Diaspora;Sheree Renée Thomas;4,16;1,354;131
+422;Strange Trouble (Rune Alexander #3);Laken Cane;4,04;1,261;77
+423;The Darkest Whisper (Lords of the Underworld, #4);Gena Showalter;4,30;43,822;1,261
+424;The Carnivorous Carnival (A Series of Unfortunate Events, #9);Lemony Snicket;4,00;126,318;3,196
+425;Apprentice Needed (Wizard for Hire, #2);Obert Skye;4,19;1,227;134
+426;The Ninth Rain (The Winnowing Flame Trilogy, #1);Jen Williams;4,11;6,439;1,134
+427;A Trick of Light (Stan Lee’s Alliances, #1);Stan Lee;3,72;3,107;414
+428;Dragon Precinct (Precinct, #1);Keith R.A. DeCandido;3,58;385;69
+429;There and Never, Ever Back Again: Diary of a Dark Lord;Jeff Mach;3,81;284;63
+430;Moving the Mountain;Charlotte Perkins Gilman;3,19;315;65
+431;The Empress of Salt and Fortune (The Singing Hills Cycle, #1);Nghi Vo;3,98;30,640;5,476
+432;How Long 'til Black Future Month?;N.K. Jemisin;4,28;15,906;2,908
+433;Valiant (New Species, #3);Laurann Dohner;4,30;22,990;1,106
+434;Anatomy: A Love Story (The Anatomy Duology, #1);Dana Schwartz;3,83;59,089;8,940
+435;Thrawn: Treason (Star Wars: Thrawn, #3);Timothy Zahn;4,28;19,403;1,408
+436;Magic Dark, Magic Divine (Warrior of the Divine Sword, #1);A.J. Locke;4,15;163;77
+437;Noor;Nnedi Okorafor;3,84;6,277;1,069
+438;Something Blue;Kristy Nicolle;3,96;742;92
+439;The Edge of Sleep;Jake Emanuel;3,59;555;241
+440;Moonshine (Cal Leandros, #2);Rob Thurman;3,99;6,752;275
+441;Other Days, Other Eyes;Bob Shaw;3,81;351;47
+442;Turnabout;Margaret Peterson Haddix;3,74;6,982;499
+443;The Deluge Drivers (Icerigger, #3);Alan Dean Foster;3,84;962;31
+444;The Dangerous Rescue (Star Wars: Jedi Apprentice, #13);Jude Watson;3,82;1,807;56
+445;Shotgun Sorceress (Jessie Shimmer, #2);Lucy A. Snyder;3,73;670;43
+446;Promise Cove (Pelican Pointe, #1);Vickie McKeehan;4,13;3,046;342
+447;Finders Keepers: Raw and Uncensored Edition;Russ Colchamiro;3,65;115;54
+448;Thousandth Night / Minla's Flowers;Alastair Reynolds;4,11;746;59
+449;Osama;Lavie Tidhar;3,47;1,129;192
+450;Arcadian Genesis (Alex Hunter, #0.5);Greig Beck;4,09;1,016;65
+451;The Mongoliad: Book One (Foreworld, #1);Neal Stephenson;3,53;9,354;772
+452;Sharp Change (Black Meadow Pack, #1);Milly Taiden;3,91;2,201;171
+453;The Talisman (Volume 1): The Road of Trials;Stephen King;4,34;13,189;71
+454;The Lifecycle of Software Objects;Ted Chiang;3,92;6,309;733
+455;Dragon Killer (Reckoning of Dragons #1);Rob  May;3,71;164;39
+456;The Red Knight (The Traitor Son Cycle, #1);Miles  Cameron;4,10;17,104;1,253
+457;In the Ocean of Night (Galactic Center, #1);Gregory Benford;3,64;3,507;189
+458;The Dark Is Rising (The Dark is Rising, #2);Susan Cooper;4,06;54,866;2,840
+459;Inferno (SKALS, #4);Adriana Noir;3,99;977;98
+460;Premonitions (Arcane Underworld, #1);Jamie Schultz;3,26;228;61
+461;The Dirty Streets of Heaven (Bobby Dollar, #1);Tad Williams;3,74;9,103;1,059
+462;Blood Oranges (Siobhan Quinn, #1);Kathleen Tierney;3,23;1,213;202
+463;To Ride a Rathorn (Kencyrath, #4);P.C. Hodgell;4,34;794;37
+464;Jitterbug Perfume;Tom Robbins;4,23;75,339;4,075
+465;Caverns of Socrates;Dennis L. McKiernan;3,83;724;36
+466;Sovereign Hope (Hope, #1);Frankie Rose;3,72;1,029;160
+467;The Lunatic Cafe (Anita Blake, Vampire Hunter, #4);Laurell K. Hamilton;4,13;77,868;1,536
+468;Prey (Infected, #1);Andrea Speed;3,97;1,974;324
+469;Wise Children;Angela Carter;3,91;8,713;764
+470;Chaos Walking: A Trilogy (Chaos Walking #1-3);Patrick Ness;4,46;4,599;311
+471;The Magicians of Caprona (Chrestomanci, #4);Diana Wynne Jones;3,93;12,527;569
+472;Opal (Lux, #3);Jennifer L. Armentrout;4,25;148,607;10,293
+473;City of the Dead (The Rising #2);Brian Keene;3,89;6,143;341
+474;The Capture (Guardians of Ga'Hoole, #1);Kathryn Lasky;3,92;28,007;1,772
+475;Lady of Light and Shadows (Tairen Soul, #2);C.L. Wilson;4,27;14,194;781
+476;Terminal Mind;David  Walton;3,60;222;43
+477;Sector Eight (Perimeter Defense #1);Michael Atamanov;4,11;1,968;73
+478;Círculos de chuva (Dragões de Éter, #3);Raphael Draccon;4,12;682;34
+479;The Hundred Secret Senses;Amy Tan;4,00;44,163;2,010
+480;Lord of the Shadows (Second Sons, #3);Jennifer Fallon;4,26;2,388;79
+481;The Snail on the Slope;Boris Natanovich Strugatskii;3,91;3,780;217
+482;The Sad Tale of the Brothers Grossbart;Jesse Bullington;3,47;2,263;335
+483;Tanglewreck;Jeanette Winterson;3,45;2,396;293
+484;Space Captain Smith (Chronicles of Isambard Smith, #1);Toby Frost;3,69;1,195;139
+485;Cast in Secret (Chronicles of Elantra, #3);Michelle Sagara;4,17;9,711;302
+486;Die Wellenläufer (Wellenläufer-Trilogie, #1);Kai Meyer;3,96;3,036;140
+487;Airman;Eoin Colfer;4,15;19,963;1,583
+488;Sleeping Beauties;Stephen King;3,73;80,969;8,714
+489;Paprika;Yasutaka Tsutsui;3,20;3,217;504
+490;Steve Jobs;Walter Isaacson;4,16;1,209,189;21,125
+491;The Iron Knight (The Iron Fey, #4);Julie Kagawa;4,18;84,343;4,888
+492;Zero Echo Shadow Prime;Peter Samet;4,04;158;61
+493;Forging Hephaestus (Villains' Code, #1);Drew  Hayes;4,50;5,533;411
+494;Godblind (Godblind, #1);Anna Stephens;3,64;2,175;491
+495;Days of Blood & Starlight (Daughter of Smoke & Bone, #2);Laini Taylor;4,14;160,716;15,378
+496;In the Mothers' Land;Élisabeth Vonarburg;4,13;423;48
+497;Serpent & Dove (Serpent & Dove, #1);Shelby Mahurin;4,00;271,318;33,296
+498;Raven's Strike (Raven, #2);Patricia Briggs;4,11;6,779;300
+499;Darkness: A Novel;John Saul;3,95;21,064;221
+500;The Marrow Thieves;Cherie Dimaline;4,00;31,934;4,316
+501;The Breath Between Waves;Charlotte Anne Hamilton;3,74;219;97
+502;Love for the Cold-Blooded, or The Part-Time Evil Minion's Guide to Accidentally Dating a Superhero;Alex Gabriel;4,16;2,082;377
+503;Edge of Collapse (Edge of Collapse, #1);Kyla Stone;4,20;16,881;1,020
+504;Charming;Jade Linwood;3,52;258;170
+505;The Post-Birthday World;Lionel Shriver;3,56;14,383;1,999
+506;Katedra;Jacek Dukaj;3,07;2,100;448
+507;Madhouse (Cal Leandros, #3);Rob Thurman;4,04;5,867;201
+508;Brightness Falls from the Air;James Tiptree Jr.;3,57;1,005;120
+509;The Beast That Shouted Love at the Heart of the World;Harlan Ellison;4,10;2,177;114
+510;Tatja Grimm's World;Vernor Vinge;3,32;898;54
+511;Postsingular;Rudy Rucker;3,61;989;140
+512;Dr. Adder;K.W. Jeter;3,70;602;63
+513;Beyond the Reflection's Edge (Echoes from the Edge, #1);Bryan Davis;3,82;1,190;93
+514;To Open The Sky;Robert Silverberg;3,59;322;36
+515;Shadows;John Saul;3,94;12,031;257
+516;The Blackcollar (Blackcollar, #1);Timothy Zahn;3,71;1,588;101
+517;Phantom (Sword of Truth, #10);Terry Goodkind;3,99;45,540;632
+518;Deathworld 1 (Deathworld, #1);Harry Harrison;3,94;8,537;497
+519;Falling Kingdoms (Falling Kingdoms, #1);Morgan Rhodes;3,78;59,757;8,255
+520;The Day of Reckoning (Star Wars: Jedi Apprentice, #8);Jude Watson;3,81;2,301;74
+521;The Gray Prince;Jack Vance;3,68;715;50
+522;The Blood Gospel (The Order of the Sanguines, #1);James Rollins;4,00;17,101;1,757
+523;The Mongoliad: Book Three (Foreworld, #3);Neal Stephenson;3,86;3,737;189
+524;The Wretched of Muirwood (Legends of Muirwood, #1);Jeff Wheeler;4,10;23,765;1,363
+525;Evening's Empires;Paul McAuley;3,65;336;38
+526;"Crystal Soldier (The Great Migration Duology, #1; Liaden Universe, #1)";Sharon Lee;4,03;2,705;128
+527;Memoirs of an Invisible Man;H.F. Saint;4,10;1,815;185
+528;Drifters Volume 1;Kohta Hirano;3,83;544;52
+529;Artifact;Gregory Benford;3,47;1,195;77
+530;Lumayo Ka Nga Sa Akin;Bob Ong;3,84;4,889;296
+531;Marked  (Hostage Rescue Team, #1);Kaylea Cross;3,90;4,156;262
+532;Dreamscape: Saving Alex;Kirstin Pulioff;3,85;93;64
+533;The Chaos of Stars;Kiersten White;3,58;9,934;1,541
+534;The Lens and the Looker;Lory S. Kaufman;3,38;529;151
+535;The Emperor's Blades (Chronicle of the Unhewn Throne, #1);Brian Staveley;4,09;39,250;2,831
+536;Generosity: An Enhancement;Richard Powers;3,59;2,240;396
+537;Angelmaker;Nick Harkaway;3,92;10,154;1,439
+538;Dahlia (Blood Crave, #1);Christina Channelle;3,59;107;33
+539;Scorpion (Memory of Scorpions, #1);Aleksandr Voinov;3,87;1,164;265
+540;Ashes (Ashes Trilogy, #1);Ilsa J. Bick;3,94;25,280;3,014
+541;The In-Betweener (Between Life and Death #1);Ann Christy;3,96;964;151
+542;Siren's Fury (Storm Siren, #2);Mary  Weber;3,73;3,776;470
+543;Radiance (Riley Bloom, #1);Alyson Noel;3,55;15,863;1,492
+544;Eye of the Labyrinth (Second Sons, #2);Jennifer Fallon;4,20;2,318;73
+545;Succubus Dreams (Georgina Kincaid, #3);Richelle Mead;4,12;28,898;1,192
+546;The Hatching;Ezekiel Boone;3,67;6,465;1,448
+547;Obsidian Butterfly (Anita Blake, Vampire Hunter, #9);Laurell K. Hamilton;4,09;64,109;1,614
+548;2095 (Time Warp Trio, #5);Jon Scieszka;3,84;806;68
+549;Cast in Silence (Chronicles of Elantra, #5);Michelle Sagara;4,21;8,290;284
+550;The Zero Blessing (The Zero Enigma, #1);Christopher G. Nuttall;4,15;1,688;100
+551;The Book of the Unnamed Midwife (The Road to Nowhere, #1);Meg Elison;4,15;20,741;2,881
+552;The Crow (The Books of Pellinor, #3);Alison Croggon;4,03;13,647;558
+553;Brothers Majere (Dragonlance: Preludes, #3);Kevin Stein;4,09;18,466;63
+554;Rule 34 (Halting State, #2);Charles Stross;3,75;7,952;694
+555;Wicked Gentlemen;Ginn Hale;3,97;4,322;508
+556;Heart of a Dog;Mikhail Bulgakov;4,11;56,238;3,319
+557;The Tattooist of Auschwitz;Heather   Morris;4,29;855,322;53,341
+558;Raincheck;Marlo Lanz;4,17;489;50
+559;A Maldição da Pedra (Mirrorworld, #1);Cornelia Funke;3,75;20,716;2,367
+560;A Plague of Giants (Seven Kennings, #1);Kevin Hearne;4,06;5,477;928
+561;Bonds of Brass (The Bloodright Trilogy, #1);Emily Skrutskie;3,84;4,394;1,175
+562;High-Opp;Frank Herbert;3,42;427;56
+563;The Boy with Fire (The Ravence Trilogy, #1);Aparna Verma;3,76;1,364;571
+564;Zero Hour;Ray Bradbury;3,76;332;34
+565;Kiki's Delivery Service (Kiki's Delivery Service, #1);Eiko Kadono;4,15;12,669;2,148
+566;Far from the Light of Heaven;Tade Thompson;3,52;4,138;818
+567;An Unnatural Beanstalk (Entwined Tales, #2);Brittany Fichter;3,94;1,072;129
+568;Mecha Samurai Empire;Peter Tieryas;4,08;781;176
+569;A Multitude of Dreams;Mara Rutherford;3,71;620;381
+570;Zita the Spacegirl (Zita the Spacegirl, #1);Ben Hatke;4,10;18,121;1,411
+571;The Fortunate Fall;Raphael Carter;3,89;443;81
+572;The Collected Stories of Philip K. Dick 2: We Can Remember it for You Wholesale;Philip K. Dick;4,21;9,023;269
+573;The Voyage of the Star Wolf (Star Wolf, #2);David Gerrold;3,87;669;48
+574;Shivering World;Kathy Tyers;3,83;319;43
+575;So This Is How It Ends (Avatars, #1);Tui T. Sutherland;3,96;771;90
+576;Lullaby;Chuck Palahniuk;3,74;97,256;3,450
+577;Men, Martians and Machines;Eric Frank Russell;3,79;246;35
+578;A Beautiful Friendship (Honorverse: Star Kingdom, #1);David Weber;4,05;4,996;379
+579;Return to Mars (The Grand Tour, #7);Ben Bova;3,89;2,511;99
+580;The Last Defender of Camelot;Roger Zelazny;4,04;2,110;99
+581;The Bradbury Report;Steven Polansky;3,19;339;86
+582;The Uncertain Path (Star Wars: Jedi Apprentice, #6);Jude Watson;3,79;2,505;93
+583;Ending Evil (Evil Secrets Trilogy, #3);Vickie McKeehan;4,27;751;81
+584;The Light Beyond the Storm Chronicles  (The Light Beyond the Storm Chronicles #1);A.L. Butcher;3,26;110;34
+585;Bloodline (Sigma Force, #8);James Rollins;4,24;22,830;1,347
+586;The System of the World (The Baroque Cycle, #3);Neal Stephenson;4,33;21,858;743
+587;Wild Cards (Wild Cards, #1);George R.R. Martin;3,69;12,948;1,085
+588;A Midsummer Tempest;Poul Anderson;3,54;740;76
+589;ABNKKBSNPLAKo?!;Bob Ong;4,21;16,615;619
+590;Broken Embrace (Embrace, #3);Dana Mason;3,73;143;48
+591;Shadow of a Dark Queen (The Serpentwar Saga, #1);Raymond E. Feist;4,08;29,188;332
+592;Sweep: Volume 1 (Sweep, #1-3);Cate Tiernan;4,26;7,512;461
+593;Sentinel (The Sentinel Trilogy, #1);Jamie Foley;4,11;270;55
+594;Machine Man;Max Barry;3,71;4,584;509
+595;Claimings, Tails, and Other Alien Artifacts (Claimings, #1);Lyn Gala;3,98;4,254;643
+596;Hater (Hater, #1);David Moody;3,65;10,266;940
+597;Wolfling;Gordon R. Dickson;3,86;708;40
+598;Merlin's Blade (The Merlin Spiral, #1);Robert Treskillard;3,83;535;129
+599;Edge of Reality (Phantom Server, #1);Andrei Livadny;3,85;1,506;39
+600;Lion of Senet (Second Sons, #1);Jennifer Fallon;4,04;3,560;158
+601;Succubus Blues (Georgina Kincaid, #1);Richelle Mead;3,94;56,521;3,169
+602;"Raising Steam (Discworld, #40; Moist von Lipwig, #3)";Terry Pratchett;4,00;39,164;2,971
+603;The Outlaw Demon Wails (The Hollows, #6);Kim Harrison;4,37;56,782;1,365
+604;Ghost Story (The Dresden Files, #13);Jim Butcher;4,25;96,224;4,962
+605;Cast in Chaos (Chronicles of Elantra, #6);Michelle Sagara;4,26;7,758;284
+606;Fists of Justice (Schooled in Magic, #12);Christopher G. Nuttall;4,23;2,281;49
+607;Juniper (Doran, #2);Monica Furlong;4,19;9,615;262
+608;Shadows Linger (The Chronicles of the Black Company, #2);Glen Cook;4,18;18,728;700
+609;"Tanis, the Shadow Years (Dragonlance: Preludes  #6; Preludes II, #3)";Barbara Siegel;3,82;9,913;34
+610;Undaunted Courage: The Pioneering First Mission to Explore America's Wild Frontier;Stephen E. Ambrose;4,21;61,044;3,013
+611;Blood Roses (Blackthorn, #2);Lindsay J. Pryor;3,98;2,270;171
+612;The Medusa Chronicles;Stephen Baxter;3,80;2,306;238
+613;Skyhunter (Skyhunter, #1);Marie Lu;4,05;18,665;3,316
+614;The Big Over Easy (Nursery Crime, #1);Jasper Fforde;3,94;33,227;2,467
+615;Balanced on the Blade's Edge (Dragon Blood, #1);Lindsay Buroker;3,90;8,250;687
